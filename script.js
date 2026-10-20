@@ -1,9 +1,7 @@
 const wishes = [
-  "Chúc mẹ và hai em luôn vui vẻ, bình an và hạnh phúc. Cảm ơn vì đã luôn yêu thương và chăm sóc cho gia đình mình.",
   "Mong nụ cười luôn ở trên môi, và mọi ước mơ sẽ trở thành hiện thực.",
-  "Chúc ba mẹ con thật nhiều niềm vui, nhiều sức khoẻ và nhiều niềm hạnh phúc.",
-  "Chúc mẹ luôn trẻ trung, xinh đẹp và hạnh phúc. Cảm ơn mẹ đã luôn ủng hộ và tin tưởng con. Chúc hai em luôn vui vẻ, học giỏi và đạt được ước mơ của mình. Con yêu gia đình mình.",
-  "Cảm ơn mẹ và hai em đã luôn yêu thương và chăm sóc cho gia đình mình."
+  "Chúc chị thật nhiều niềm vui, nhiều sức khoẻ và nhiều niềm hạnh phúc.",
+  "Chúc chị luôn trẻ trung, xinh đẹp và nhiều tiền nhiều tiền",
 ];
 
 const wishButton = document.querySelector("#wish-button");
